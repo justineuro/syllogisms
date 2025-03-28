@@ -173,7 +173,7 @@ assignMinSym() # $fig $mood_i (i=2))
 	esac		
 
 ###
-# Function for constructing (symbolic) the conclusion of the CS given the Form: Figure-Mood[3]
+# Function for constructingf (symbolic) the conclusion of the CS given the Form: Figure-Mood[3]
 ###
 assignConSym()
 	case $1 in # $fig $mood_i (i=3)
@@ -355,7 +355,7 @@ for mood in "AAA" "AAE" "AAI" "AAO" "AEA" "AEE" "AEI" "AEO" "AIA" "AIE" "AII" "A
 			conPbin=$(( `toBin $conP` ))
 			
 			# Obtain the boolean values of the premises and conclusion; 
-			# format to indicate (yellow highlighting fro a cell) if the row 
+			# format to indicate (yellow highlighting for a cell) if the row 
 			# containing the cell will be deleted for evaluating validity 
 			if [ "$majConn" = "|" ]; then 
 				majPval=`echo $(( ! $majSbin $majConn $majPbin ))`
