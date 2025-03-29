@@ -24,7 +24,7 @@ In the PDF file [256-tables.pdf](./256-tables.pdf), the table labels indicating 
 Thus, in 
 
 * **Aristotelian logic with an _express_ definition of a CS**, exactly **19** (<span style="background-color:#B8860B; fontcolor:black">15 dark goldenrod</span> + <span style="background-color:#DAA520; fontcolor:black">4 goldenrod</span>) CS are deemed to be valid; 
-* **Aristotelian logic with a_loose_ definition of a CS**, exactly **24** (<span style="background-color:#B8860B; fontcolor:black">15 dark goldenrod</span> + <span style="background-color:#DAA520; fontcolor:black">4 goldenrod</span> + <span style="background-color:silver; fontcolor:black">5 silver</span>) CS are deemed to be valid; 
+* **Aristotelian logic with a _loose_ definition of a CS**, exactly **24** (<span style="background-color:#B8860B; fontcolor:black">15 dark goldenrod</span> + <span style="background-color:#DAA520; fontcolor:black">4 goldenrod</span> + <span style="background-color:silver; fontcolor:black">5 silver</span>) CS are deemed to be valid; 
 * **Boolean logic** - exactly **15** (<span style="background-color:#B8860B; fontcolor:black">only the 15 dark goldenrod</span>) CS are deemed to be unconditionally valid and **9** (<span style="background-color:#DAA520; fontcolor:black">4 goldenrod</span> + <span style="background-color:silver; fontcolor:black">5 silver</span>) CS are deemed conditionally valid subject to certain requirements on existential import (please see [List of valid argument forms](https://en.wikipedia.org/wiki/List_of_valid_argument_forms) for more information).
 
 ## LICENSE
