@@ -18,5 +18,5 @@ The method was previously presented in the following scientific meetings:
 
 ## LICENSE
 
-This work ([syllogism](https://github.com/justineuro/syllogisms)) is covered by an Apache 2.0 License.
+This work ([syllogisms](https://github.com/justineuro/syllogisms)) is covered by an Apache 2.0 License.
 
