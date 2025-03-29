@@ -16,16 +16,16 @@ The method was previously presented in the following scientific meetings:
 ## Color coding 
 In the PDF file [256-tables.pdf](./256-tables.pdf), the table labels indicating the CS form, e.g., `Form: I-AAI`, for the first table, have been highlighted to indicate whether the form is valid/invalid (Aristotelian logic), or unconditionally/conditionally valid or invalid (Boolean logic). The color coding is as follows:
 
-* <span style="background-color:#B8860B; fontcolor:black">dark goldenrod</span> -  indicates a valid CS in Aristotelian (with a **loose** or **express** definition of a CS) and an unconditionally valid CS in Boolean logic (there are **15** such truth tables)
+* <span style="background-color:#B8860B; fontcolor:black">dark goldenrod</span> -  indicates a valid CS in Aristotelian (with either a **loose** or an **express** definition of a CS) and an unconditionally valid CS in Boolean logic (there are **15** such truth tables)
 * <span style="background-color:#DAA520; fontcolor:black">goldenrod</span> -  indicates a valid CS in Aristotelian logic and a conditionally valid CS in Boolean logic (there are **4** such truth tables)
 * <span style="background-color:silver; fontcolor:black">silver</span> -  indicates a valid CS in Aristotelian logic with an **loose** definition of a CS, an invalid CS in Aristotelian logic with an **express** definition of a CS, and a conditionally valid CS in Boolean logic (there are **5** such truth tables).  The conclusion for each of this five CS is a weakened version of the conclusion of the corresponding CS in the first list of 15 CS.
-* <span style="background-color:white; fontcolor:black">white</span> - invalid CS.
+* <span style="background-color:white; fontcolor:black">white</span> - invalid CS
 
 Thus, in 
 
-* **Aristotelian logic with an _express_ definition of a CS** - exactly 19 (<span style="background-color:#B8860B; fontcolor:black">15 dark goldenrod</span> + <span style="background-color:#DAA520; fontcolor:black">4 goldenrod</span>) CS are deemed to be valid. 
-* **Aristotelian logic with an _loose_ definition of a CS** - exactly 24 (<span style="background-color:#B8860B; fontcolor:black">15 dark goldenrod</span> + <span style="background-color:#DAA520; fontcolor:black">4 goldenrod</span> + <span style="background-color:silver; fontcolor:black">5 silver</span>) CS are deemed to be valid. 
-* **Boolean logic** - exactly 15 (<span style="background-color:#B8860B; fontcolor:black">only the 15 dark goldenrod</span>) CS are deemed to be valid.
+* **Aristotelian logic with an _express_ definition of a CS** - exactly **19** (<span style="background-color:#B8860B; fontcolor:black">15 dark goldenrod</span> + <span style="background-color:#DAA520; fontcolor:black">4 goldenrod</span>) CS are deemed to be valid. 
+* **Aristotelian logic with a_loose_ definition of a CS** - exactly **24** (<span style="background-color:#B8860B; fontcolor:black">15 dark goldenrod</span> + <span style="background-color:#DAA520; fontcolor:black">4 goldenrod</span> + <span style="background-color:silver; fontcolor:black">5 silver</span>) CS are deemed to be valid. 
+* **Boolean logic** - exactly **15** (<span style="background-color:#B8860B; fontcolor:black">only the 15 dark goldenrod</span>) CS are deemed to be valid.
 
 ## LICENSE
 
