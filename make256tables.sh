@@ -260,7 +260,7 @@ for mood in "AAA" "AAE" "AAI" "AAO" "AEA" "AEE" "AEI" "AEO" "AIA" "AIE" "AII" "A
 					assignMajSym $fig $mood_i
 				elif [ "$i" == "1" ]; then # construct the minor premise
  					assignMinSym $fig $mood_i
-				else												# construct the conclusion
+				else						# construct the conclusion
 					assignConSym $mood_i
 				fi
 			done
