@@ -27,6 +27,9 @@ Thus, in
 * **Aristotelian logic with a _loose_ definition of a CS**, exactly **24** (<span style="background-color:#B8860B; fontcolor:black">15 dark goldenrod</span> + <span style="background-color:#DAA520; fontcolor:black">4 goldenrod</span> + <span style="background-color:silver; fontcolor:black">5 silver</span>) CS are deemed to be **valid**; 
 * **Boolean logic**, exactly **15** (<span style="background-color:#B8860B; fontcolor:black">only the 15 dark goldenrod</span>) CS are deemed to be ***unconditionally valid*** and **9** (<span style="background-color:#DAA520; fontcolor:black">4 goldenrod</span> + <span style="background-color:silver; fontcolor:black">5 silver</span>) CS are deemed ***conditionally valid*** subject to certain requirements on existential import (please see [List of valid argument forms](https://en.wikipedia.org/wiki/List_of_valid_argument_forms) for more information).
 
+
+The PDF file [256-tables-sum.pdf](./256-tables-sum.pdf) shows the tables from [256-tables.pdf](./256-tables.pdf) after some of the steps from the algorithm have been implemented on them.  For example, for the first table (`Form: I-AAA (bArbArA)`), which has a valid form, implementing this ATTM requires object types `2`, `3`, `4`, and `6` to be deleted (yellow highlighting for the rows).  For the subuniverse containing the remaining objects types (`1`, `5`, `7`, and `8`), the two premises and the conclusion are all true, thus the form of this CS is valid in Aristotelian logic and unconditionally valid in Boolean logic (note that each term (minor (`S`), middle (`M`), and major (`P`)) have existential import, i.e., each term is present in the subuniverse of discourse). 
+
 ## LICENSE
 
 This work ([syllogisms](https://github.com/justineuro/syllogisms)) is covered by an Apache 2.0 License.
